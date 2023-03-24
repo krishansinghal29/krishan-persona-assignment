@@ -1,0 +1,23 @@
+{
+  "name": "krishan-persona-assignment",
+  "version": "1.0.0",
+  "description": "Sdk for ad publishers to integrate ads",
+  "main": "hypelab.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishansinghal29/krishan-persona-assignment.git"
+  },
+  "author": "Krishan Singhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishansinghal29/krishan-persona-assignment/issues"
+  },
+  "homepage": "https://github.com/krishansinghal29/krishan-persona-assignment#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
