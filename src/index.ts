@@ -1,1 +1,1 @@
-export { AdMetadataT, HypeLab } from "./hypelab";
+export { AdDataType, PublishAdd } from "./publishAdd";

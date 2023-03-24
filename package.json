@@ -1,6 +1,6 @@
 {
   "name": "krishan-persona-assignment",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Sdk for ad publishers to integrate ads",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
